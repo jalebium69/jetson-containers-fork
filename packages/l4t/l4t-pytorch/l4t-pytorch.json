@@ -3,3 +3,4 @@
         "group": "ml",
         "depends": ["pytorch", "torchvision", "torchaudio", "torch2trt", "opencv", "pycuda","pandas","ultralytics","supervision","roboflow"]
 }
+}
